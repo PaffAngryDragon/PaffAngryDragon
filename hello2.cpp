@@ -8,5 +8,5 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n"; 
-    std::cout << "Ez az első változat";
+    std::cout << "Ez az második változat";   //  második változat
 }
